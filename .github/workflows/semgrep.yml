@@ -8,6 +8,8 @@
 #
 # See https://semgrep.dev/docs
 
+# Dummy commit
+
 name: Semgrep
 
 on:
