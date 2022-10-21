@@ -100,4 +100,6 @@ Explore the vulnerability.
 * JSON Web API (unprotected API)
 * Build Simple Android APP
 
+# This is a dummy update
+
 Powered by [NemoSecurity](https://nemosecurity.com)
